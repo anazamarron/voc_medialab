@@ -1,0 +1,17 @@
+
+La previsión meteorológica para la playa de *NOMBRE_PLAYA*, situada en el municipio de *LOCALIDAD* hoy *FECHA_HOY* es de *ESTADO_CIELO_HOY_MANIANA* por la mañana y *ESTADO_CIELO_HOY_TARDE* por la tarde, según las previsiones de la Agencia Estatal de Meteorología (AEMET) (http://www.aemet.es/es/eltiempo/prediccion/playas/*ID_LARGO*). Se espera un viento *VIENTO_HOY_MANIANA* por la mañana y *VIENTO_HOY_TARDE* por la tarde, y un oleaje *OLEAJE_HOY_MANIANA* por la mañana y *OLEAJE_HOY_TARDE* por la tarde. <br/>
+
+Se prevé una temperatura máxima de *TEMPERATURA_MAXIMA_HOY*. El índice de radiación ultravioleta (índice UV) máximo será de *INDICE_UV_HOY*, lo que implica un nivel de exposición a la radiación ultravioleta del sol *EXPOSICION_HOY*, según las categorías definidas por la AEMET (http://www.aemet.es/es/eltiempo/prediccion/radiacionuv/ayuda).
+La temperatura del agua prevista es de *TEMPERATURA_AGUA_HOY* grados. *BLOQUE_BAJAMAR*. 
+*BLOQUE_MEDUDUSAS*
+
+Para mañana, *FECHA_MANIANA*, se espera *CIELO_MANIANA_MANIANA* por la mañana y *CIELO_MANIANA_TARDE* por la tarde, y una temperatura máxima de *TEMPERATURA_MAXIMA_MANIANA* grados.
+<br/>
+
+<h1>Recomendaciones de salud</h1>
+Para disfrutar de forma saludable de la playa es importante seguir ciertos consejos y buenas prácticas de seguridad, hidratación y protección frente al sol, entre otras cosas. En caso de que te quemes con el sol, puedes encontrar todos los detalles que debes tener en cuenta aquí. Si te pica una medusa, ten cuidado con las curas caseras que circulan (como verter vinagre, amoníaco u orina sobre la picadura). Aquí hemos recopilado varios consejos de especialistas sobre qué hacer si te pica una medusa este verano. Si se disparan las temperaturas, es recomendable seguir algunas prácticas básicas, sobre todo para el caso de niños y personas mayores, como te explicamos en este artículo.
+En este especial puedes encontrar información actualizada sobre casi todas las playas de la región. [+ enlace a la subportada de playas].
+
+<h1>Nota metodológica: </h1>
+(en cuerpo un poco más pequeño) Esta ficha-noticia ha sido elaborada de forma automática por un algoritmo que hemos bautizado como “playabot”, a partir de la información que publican periódicamente la Agencia Estatal de Meteorología y la Cruz Roja. Si has notado que faltan playas, se debe a que estas dos fuentes oficiales no publican información sobre ellas. En cualquier caso, os pedimos disculpas por adelantado por cualquier error que pueda generar nuestro “robot” de playas. Este desarrollo es un proyecto experimental de LAS PROVINCIAS y los equipos de innovación y tecnología del Vocento Media Lab.
+
