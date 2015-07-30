@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
 <elemento type="Noticia" zone="" id="16.0.1114652556" template="/SysConfig/Plantillas/articulo-general-2014.xml" item-template="">
     <info>
         <sys>
@@ -15,7 +13,7 @@
             <owner>system</owner>
             <creator>system</creator>
             <timeCreated>1437467737</timeCreated>
-            <lastModifier>infomedusa</lastModifier>
+            <lastModifier>MedusaBot</lastModifier>
             <timeModified>1437467737</timeModified>
             <fechaBuscador>1437467737</fechaBuscador>
             <locker/>
@@ -28,7 +26,7 @@
                 <templateName>/SysConfig/Plantillas/articulo-general-2014.xml</templateName>
                 <workFolder>/RC/Noticias/sociedad/playas</workFolder>
                 <productInfo>
-                <name>infomedusa</name>
+                <name>MEdusaBot</name>
                 <issueDate>20150801</issueDate>
                 </productInfo>
                 <originalLoid>16.0.1114652556</originalLoid>
@@ -60,8 +58,8 @@
             <General>
                 <webtype>Noticia</webtype>
                 <Metas>
-                    <Titulo>'Hay una cosa que te quiero decir' seduce con la entrevista a Chabelita</Titulo>
-                    <Title>'Hay una cosa que te quiero decir' seduce con la entrevista a Chabelita</Title>
+                    <Titulo>Toda la informaci&#243;n sobre el estado de la playa de cuberris, en Bareyo.</Titulo>
+                    <Title>Toda la informaci&#243;n sobre el estado de la playa de cuberris, en Bareyo.</Title>
                     <Description>SUBEN</Description>
                     <Cintillo/>
                     <KeyWords>medusa, playas, bandera, temperatura</KeyWords>
@@ -70,9 +68,9 @@
                     <Canonical/>
                     <FechaPrimeraPublicacion>20150801000000</FechaPrimeraPublicacion>
                 </Metas>
-                <autor>infomedusa</autor>
+                <autor>infoplayas/Bareyo</autor>
                 <genero>estandar</genero>
-                <fecha>primera_publicacion</fecha>
+                <fecha>30/07/2015 10:24</fecha>
                 <Urgente/>
                 <UrgenteConEnlace/>
                 <categoria>
@@ -145,45 +143,45 @@
         <comscore>
             <voc_se>sociedad</voc_se>
             <voc_s1>playas</voc_s1>
-            <voc_s2></voc_s2>
-            <voc_s3></voc_s3>
-            <voc_s4></voc_s4>
+            <voc_s2/>
+            <voc_s3/>
+            <voc_s4/>
             <voc_site>lasprovincias</voc_site>
-            <voc_ho></voc_ho>
-            <voc_ed></voc_ed>
+            <voc_ho/>
+            <voc_ed/>
             <voc_pr>1</voc_pr>
-            <voc_pl></voc_pl>
-            <voc_pu></voc_pu>
-            <voc_usrid></voc_usrid>
-            <voc_tusr></voc_tusr>
+            <voc_pl/>
+            <voc_pu/>
+            <voc_usrid/>
+            <voc_tusr/>
             <voc_ate>ocio</voc_ate>
-            <voc_tn></voc_tn>
+            <voc_tn/>
             <voc_tc>noticia</voc_tc>
-            <voc_au>infomedusa</voc_au>
+            <voc_au>MedusaBot</voc_au>
             <voc_fep>20150801000000</voc_fep>
             <voc_fem>20150801000000</voc_fem>
             <voc_or>VocentoMediaLab</voc_or>
             <voc_idi>es</voc_idi>
-            <oas_sitepage></oas_sitepage>
+            <oas_sitepage/>
         </comscore>
         <canonical>http://desn.lasprovincias.es/sociedad/playas/playa.html</canonical>
         <alternate>http://desn.lasprovincias.es/sociedad/playas/playa.html</alternate>
-        <edicion></edicion>
-        <medio>infomedusa</medio>
+        <edicion/>
+        <medio>MedusaBot</medio>
     </info>
     <doc>
         <lead class="r2014" id="U3082764670942zGG">
             <overhead/>
-            <headline></headline>
+            <headline>Toda la informaci&#243;n sobre el estado de la playa de cuberris, en Bareyo.</headline>
             <byline>
-                <locator><![CDATA[]]></locator>
+                <locator></locator>
                 <author>
-                <name><![CDATA[infomedusa]]></name>
+                <name>infoplayas/Bareyo</name>
                 <location>Valencia</location>
                 </author>
             </byline>
             <subhead-group>
-                <subhead></subhead>
+                <subhead>Datos de temperatura, estado del mar y mareas para que decidas d&#243;nde ir</subhead>
             </subhead-group>
             <link-container/>
             <subarticles/>
@@ -193,20 +191,40 @@
                 <overhead/>
                 <subhead-group>
                 <heading/>
-                <subhead></subhead>
+                <subhead>Datos de temperatura, estado del mar y mareas para que decidas d&#243;nde ir</subhead>
                 </subhead-group>
                 <byline>
-                    <locator><![CDATA[]]></locator>
+                    <locator></locator>
                     <author>
                     <column/>
-                    <name><![CDATA[infomedusa]]></name>
+                    <name>infoplayas/Bareyo</name>
                     <location>Valencia</location>
                     <description/>
                     <twiter/>
                     </author>
                 </byline>
             </grouphead>
-            <text><![CDATA[]]></text>
+            <text>&lt;![CDATA[&lt;p&gt;La previsi&#243;n meteorol&#243;gica para la playa de cuberris, situada en el municipio de Bareyo hoy jueves 30 de julio es de muy nuboso por la ma&#241;ana y nuboso por la tarde, seg&#250;n las previsiones de la Agencia Estatal de Meteorolog&#237;a (AEMET) (http://www.aemet.es/es/eltiempo/prediccion/playas/cuberris-3901102). Se espera un viento flojo por la ma&#241;ana y flojo por la tarde, y un oleaje moderado por la ma&#241;ana y d&#233;bil por la tarde. &lt;/p&gt;
+
+&lt;p&gt;Se prev&#233; una temperatura m&#225;xima de 20 grados. El &#237;ndice de radiaci&#243;n ultravioleta (&#237;ndice UV) m&#225;ximo ser&#225; de 8, lo que implica un nivel de exposici&#243;n a la radiaci&#243;n ultravioleta del sol muy alta, seg&#250;n las categor&#237;as definidas por la AEMET (http://www.aemet.es/es/eltiempo/prediccion/radiacionuv/ayuda).
+La temperatura del agua prevista es de 22 grados. La bajamar ser&#225; a las 4:20 y la pleamar a las *PLEAMAR*
+. 
+
+&lt;/p&gt;
+
+&lt;p&gt;Para ma&#241;ana, viernes 31 de julio, se espera muy nuboso por la ma&#241;ana y muy nuboso por la tarde, y una temperatura m&#225;xima de 19 grados.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;h1&gt;Recomendaciones de salud&lt;/h1&gt;
+Para disfrutar de forma saludable de la playa es importante seguir ciertos consejos y buenas pr&#225;cticas de seguridad, hidrataci&#243;n y protecci&#243;n frente al sol, entre otras cosas. En esta noticia hemos recopilado algunos consejos b&#225;sicos para disfrutar de la playa y evitar algunos de los riesgos m&#225;s habituales, como los llamados &#8220;cortes de digesti&#243;n&#8221; (o hidrocuci&#243;n) o el exceso de exposici&#243;n al sol. Adem&#225;s, lo primero que hay que hacer ante una picadura de medusa es limpiar la zona afectada con agua salada y retirar cualquier resto de tent&#225;culo si lo hubiese, y acudir a los socorristas o a un centro de salud cercano para asegurarse de que la picadura no reviste gravedad.&lt;br/&gt;
+En este especial puedes encontrar informaci&#243;n actualizada sobre casi todas las playas de la regi&#243;n. [+ enlace a la subportada de playas].
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Nota metodol&#243;gica: &lt;/h2&gt;
+(en cuerpo un poco m&#225;s peque&#241;o) Esta ficha-noticia ha sido elaborada de forma autom&#225;tica por un algoritmo que hemos bautizado como &#8220;infoplayas&#8221;, a partir de la informaci&#243;n que publican peri&#243;dicamente la Agencia Estatal de Meteorolog&#237;a y la Cruz Roja. Si has notado que faltan playas, se debe a que estas dos fuentes oficiales no publican informaci&#243;n sobre ellas. En algunos casos, ver&#225;s que una misma playa aparece numerada con distintos nombres: la raz&#243;n es que la Cruz Roja recoge informaci&#243;n por cada uno de los puestos de socorro que tenga la playa. En cualquier caso, os pedimos disculpas por adelantado por cualquier error que pueda generar nuestro &#8220;robot&#8221; de playas. Este desarrollo es un proyecto experimental de DIARIO MONTA&#209;&#201;S y los equipos de innovaci&#243;n y tecnolog&#237;a del Vocento Media Lab.
+&lt;/p&gt;
+
+]]&gt;</text>
             <multimedia/>
         </story>
     </doc>

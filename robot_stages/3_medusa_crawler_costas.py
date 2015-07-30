@@ -146,7 +146,11 @@ for url in url_playa:
 		fecha_completa = div_cabecera[-1]
 		fecha = fecha_completa.split(",")
 		fecha_convertida = getFechaTime(fecha[1].strip())
-		
+		hoy_es = datetime.strptime(datetime.today().strftime('%Y-%m-%d'),'%Y-%m-%d')
+
+		if fecha_convertida < hoy_es:
+			fecha_convertida = hoy_es
+
 		#playa =  tree_playa.xpath('//h3[@class="titulo_fondo_azul"]/text()')
    
 		coordenadas = tree_playa.xpath('//span[@class="geo"]/abbr/text()')
